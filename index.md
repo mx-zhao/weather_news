@@ -1,6 +1,8 @@
 # The Weather News
+<br>
 By Mengxuan ZHAO
 <br>2021/05
+<br>
 <br>
 
 ***The Weather News*** is a programming artwork using voice detection to catch the keywords about weather in views’ speech, then generate a random piece of weather news related to the keyword.
@@ -56,7 +58,8 @@ Year 4 student of City University of Hong Kong, School of Creative Media. Major 
 
 <br>
 
-## 
+
+
 
 *Special thanks to professor Daniel Howe for instructions during the past semester
 <br>to Joyce and Alyssa for the training of voice detection
