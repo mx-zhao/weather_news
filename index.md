@@ -18,7 +18,9 @@ By Mengxuan ZHAO
 
 When Viewing the artwork, the viewers are expected to talk about what the weather is like in their place. When an answer is given, the program will catch the *weather word* and recognize it with a machine learning model, then generate a piece of made-up news about a kind of extreme weather related to the keyword with RiTa markov.
 
-**View the video demonstration of the artwork** ***[The Weather News](https://mx-zhao.github.io/weathernews/)***
+**View the artwork** ***[The Weather News](https://mx-zhao.github.io/weathernews/)***
+<br>**View the Video demonstration of** ***[The Weather News](https://youtu.be/2M93uoQ7Z4g)***
+
 
 <br>
 
